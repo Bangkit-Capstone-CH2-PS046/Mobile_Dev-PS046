@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">workout_app_caps</string>
+
+    <string name="hello">Let\'s make a change in yourself!"</string>
+    <string name="create_account">Create Account</string>
+    <string name="login_head">Hi, Welcome Back!</string>
+    <string name="login_second">Hello again, ready to workout today?</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="username_">Username</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="email_add">Email Address</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+</resources>

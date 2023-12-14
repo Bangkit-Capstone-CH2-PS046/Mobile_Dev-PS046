@@ -1,0 +1,12 @@
+<!-- rectangle_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Rectangle shape -->
+    <solid android:color="#FFFFFF"/> <!-- Fill color, change this to the color you want -->
+
+    <!-- Optional: Set corner radius for rounded corners -->
+    <corners android:radius="32dp"/> <!-- Change the radius as needed -->
+
+    <!-- Optional: Set stroke (border) -->
+    <stroke
+        android:width="2dp"/> <!-- Border width -->
+</shape>
