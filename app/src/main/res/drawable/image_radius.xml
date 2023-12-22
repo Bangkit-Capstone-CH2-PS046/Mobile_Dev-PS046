@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"><!-- Ganti dengan warna latar belakang yang Anda inginkan -->
+    <corners android:radius="12dp" /> <!-- Ganti dengan radius yang Anda inginkan -->
+</shape>
